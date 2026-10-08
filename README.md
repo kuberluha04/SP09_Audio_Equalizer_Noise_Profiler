@@ -1,4 +1,4 @@
-# SP09 - Audio Equalizer & Noise Profiler   (SP09 is project code  SP stands for signal processing )
+# SP09 - Audio Equalizer & Noise Profiler   
 
 IIT Madras Signal Processing project.
 A web app (built with Streamlit) where you can upload an audio file, see its waveform and frequency spectrum, 
